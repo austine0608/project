@@ -2,7 +2,7 @@ import streamlit as st
 # import webbrowser 
 
 st.set_page_config(
-    page_title = "Multiple App"
+    page_title = "Lotus-Gold Consulting"
 )
 
 st.title('Story Album')
